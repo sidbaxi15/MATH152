@@ -1,2 +1,3 @@
 # MATH152
-Repository for UCSC MATH 152 - Programming for Mathematics class
+
+Here I can store and allow TA access for the Notebook projects that I will create for MATH 152 - Programming for Mathematics in UCSC
